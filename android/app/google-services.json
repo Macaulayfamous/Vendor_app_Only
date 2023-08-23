@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94785368312",
+    "project_id": "uber-shop-app-408fb",
+    "storage_bucket": "uber-shop-app-408fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94785368312:android:73668894c66eb0d3f58b0d",
+        "android_client_info": {
+          "package_name": "com.macaulayfamous.vendor_app_only"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94785368312-gqtv3o474u1djs38sbf6vln5j03ib8b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACSKA6J_sJMLx_8fRDc0KizH3UX541D7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94785368312-gqtv3o474u1djs38sbf6vln5j03ib8b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
